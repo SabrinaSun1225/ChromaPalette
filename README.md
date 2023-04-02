@@ -70,4 +70,17 @@ To start using ChromaPalette, simply clone or download the repository from GitHu
 ```
 git clone https://github.com/SabrinaSun1225/ChromaPalette
 ```
+
+The following code can be used to import ChromaPalette:
+```
+from ChromaPalette import *
+```
+
+To generate a list of colors from a color scheme, you can use the following code:
+```
+your_color_list = color_palette(name="Sunrise",N=8)
+```
+Here, "N" is the number of colors and "name" is the name of the color scheme.
+
+
 With ChromaPalette, you can elevate the aesthetics of your visualizations and captivate your audience. Don't wait - try ChromaPalette today and let your data speak for itself!
