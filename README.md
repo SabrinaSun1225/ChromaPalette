@@ -71,6 +71,16 @@ To start using ChromaPalette, simply clone or download the repository from GitHu
 git clone https://github.com/SabrinaSun1225/ChromaPalette
 ```
 
+To install the package, please input
+```
+python setup.py install
+```
+
+You may update your PYTHONPATH with
+```
+export PYTHONPATH="put-your-path-here:$PYTHONPATH"
+```
+
 The following code can be used to import ChromaPalette:
 ```
 from ChromaPalette.chroma_palette import *
