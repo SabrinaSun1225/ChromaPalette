@@ -73,7 +73,7 @@ git clone https://github.com/SabrinaSun1225/ChromaPalette
 
 The following code can be used to import ChromaPalette:
 ```
-from ChromaPalette import *
+from ChromaPalette.chroma_palette import *
 ```
 
 To generate a list of colors from a color scheme, you can use the following code:
