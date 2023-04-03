@@ -6,6 +6,9 @@ Are you tired of spending countless hours searching for the perfect color scheme
 - **19 Unique Color Schemes**: Featuring a diverse range of color schemes, from gradient to low saturation, Morandi-inspired palettes, and vibrant, high contrast options.
 - **Time Saving**: Eliminate the need to search the internet for color palettes - ChromaPalette has you covered.
 - **Designed for Science**: Crafted specifically for the scientific community, each color scheme is suited for various types of data visualization.
+- **Effortless Color Scheme Creation**: Auto-generate custom color schemes with ChromaPalette. Simply choose a scheme and input the number of colors, and ChromaPalette takes care of the rest, seamlessly filling in gaps with gradient colors when needed. The possibilities are endless!
+- **Color Code Conversion**: ChromaPalette effortlessly converts between HEX and RGB color codes, allowing you to switch between formats depending on your needs. Create beautiful color schemes with ease and translate them seamlessly with ChromaPalette.
+
 
 ## Color Schemes
 1. Coral
@@ -90,7 +93,15 @@ To generate a list of colors from a color scheme, you can use the following code
 ```
 your_color_list = color_palette(name="Sunrise",N=8)
 ```
-Here, "N" is the number of colors and "name" is the name of the color scheme.
+Here, "**N**" is the number of colors and "**name**" is the name of the color scheme.
 
+If you have a HEX code, but you want its RGB code. You can use function "hex_to_rgb":
+```
+rgb = hex_to_rgb(hex)
+```
+To convert an RGB code (e.g., rgb=[R, G, B]) to a HEX code, you can use the 'rgb_to_hex' function:
+```
+hex = rgb_to_hex(rgb)
+```
 
 With ChromaPalette, you can elevate the aesthetics of your visualizations and captivate your audience. Don't wait - try ChromaPalette today and let your data speak for itself!
