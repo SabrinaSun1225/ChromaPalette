@@ -104,4 +104,16 @@ To convert an RGB code (e.g., rgb=[R, G, B]) to a HEX code, you can use the 'rgb
 hex = rgb_to_hex(rgb)
 ```
 
+## Colorblind-Friendly Visualizations 
+
+Please use the tool below to check that the color schemes you generate are colorblind-friendly [https://color.adobe.com/create/color-accessibility](https://color.adobe.com/create/color-accessibility)
+
+**Learn more about colorblind-friendly visualizations**: 
+
+Check out this article from Nature for more information: [https://www.nature.com/articles/d41586-021-02696-z](https://www.nature.com/articles/d41586-021-02696-z)
+
+
+
+
+
 With ChromaPalette, you can elevate the aesthetics of your visualizations and captivate your audience. Don't wait - try ChromaPalette today and let your data speak for itself!
