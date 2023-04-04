@@ -106,7 +106,9 @@ hex = rgb_to_hex(rgb)
 
 ## Colorblind-Friendly Visualizations 
 
-Please use the tool below to check that the color schemes you generate are colorblind-friendly [https://color.adobe.com/create/color-accessibility](https://color.adobe.com/create/color-accessibility)
+Please use the tool below to check that the color schemes you generate are colorblind-friendly
+
+[https://color.adobe.com/create/color-accessibility](https://color.adobe.com/create/color-accessibility)
 
 **Learn more about colorblind-friendly visualizations**: 
 
