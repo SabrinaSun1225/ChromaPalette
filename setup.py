@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ChromaPalette',
-    version='0.1.0',
+    version='0.1.1',
     description='A Versatile Scientific Color Palette Library',
 
     author='Sabrina Sun',
