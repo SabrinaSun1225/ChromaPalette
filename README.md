@@ -1,9 +1,9 @@
 # ChromaPalette: A Versatile Scientific Color Palette Library
 
-Are you tired of spending countless hours searching for the perfect color scheme for your scientific visualizations? Look no further! Introducing **ChromaPalette** - a comprehensive and versatile color palette library tailored for researchers and scientists. With 19 stunning and carefully designed color schemes, creating eye-catching and informative visualizations has never been easier!
+Are you tired of spending countless hours searching for the perfect color scheme for your scientific visualizations? Look no further! Introducing **ChromaPalette** - a comprehensive and versatile color palette library tailored for researchers and scientists. With 50 stunning and carefully designed color schemes, creating eye-catching and informative visualizations has never been easier!
 
 ## Features
-- **19 Unique Color Schemes**: Featuring a diverse range of color schemes, from gradient to low saturation, Morandi-inspired palettes, and vibrant, high contrast options.
+- **50 Unique Color Schemes**: Featuring a diverse range of color schemes, from gradient to low saturation, Morandi-inspired palettes, and vibrant, high contrast options.
 - **Time Saving**: Eliminate the need to search the internet for color palettes - ChromaPalette has you covered.
 - **Designed for Science**: Crafted specifically for the scientific community, each color scheme is suited for various types of data visualization.
 - **Effortless Color Scheme Creation**: Auto-generate custom color schemes with ChromaPalette. Simply choose a scheme and input the number of colors, and ChromaPalette takes care of the rest, seamlessly filling in gaps with gradient colors when needed. The possibilities are endless!
