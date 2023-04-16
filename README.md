@@ -68,6 +68,9 @@ Are you tired of spending countless hours searching for the perfect color scheme
 19. Radiant
 <img src="./color_imgs/Radiant.svg" alt="Radiant SVG" width="500">
 
+20. VintageBlend
+<img src="./color_imgs/VintageBlend.svg" alt="VintageBlend SVG" width="500">
+
 ## Get Started
 To start using ChromaPalette, simply clone or download the repository from GitHub and import it into your favorite data visualization tool.
 ```
