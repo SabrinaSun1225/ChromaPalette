@@ -68,8 +68,100 @@ Are you tired of spending countless hours searching for the perfect color scheme
 19. Radiant
 <img src="./color_imgs/Radiant.svg" alt="Radiant SVG" width="500">
 
-20. VintageBlend
+20. RoseGradient
+<img src="./color_imgs/RoseGradient.svg" alt="RoseGradient SVG" width="500">
+
+21. PurpleGradient
+<img src="./color_imgs/PurpleGradient.svg" alt="PurpleGradient SVG" width="500">
+
+22. BlueGradient
+<img src="./color_imgs/BlueGradient.svg" alt="BlueGradient SVG" width="500">
+
+23. Retro
+<img src="./color_imgs/Retro.svg" alt="Retro SVG" width="500">
+
+24. HarmonyMix
+<img src="./color_imgs/HarmonyMix.svg" alt="HarmonyMix SVG" width="500">
+
+25. SimplePastel
+<img src="./color_imgs/SimplePastel.svg" alt="SimplePastel SVG" width="500">
+
+26. SoftVintage
+<img src="./color_imgs/SoftVintage.svg" alt="SoftVintage SVG" width="500">
+
+27. EasternHues
+<img src="./color_imgs/EasternHues.svg" alt="EasternHues SVG" width="500">
+
+28. RelaxingPastel
+<img src="./color_imgs/RelaxingPastel.svg" alt="RelaxingPastel SVG" width="500">
+
+29. Lotus
+<img src="./color_imgs/Lotus.svg" alt="Lotus SVG" width="500">
+
+30. CalmBalance
+<img src="./color_imgs/CalmBalance.svg" alt="CalmBalance SVG" width="500">
+
+31. Eggplant
+<img src="./color_imgs/Eggplant.svg" alt="Eggplant SVG" width="500">
+
+32. SeaSalt
+<img src="./color_imgs/SeaSalt.svg" alt="SeaSalt SVG" width="500">
+
+33. Enamel
+<img src="./color_imgs/Enamel.svg" alt="Enamel SVG" width="500">
+
+34. Pearwood
+<img src="./color_imgs/Pearwood.svg" alt="Pearwood SVG" width="500">
+
+35. VintageBlend
 <img src="./color_imgs/VintageBlend.svg" alt="VintageBlend SVG" width="500">
+
+36. CozyBlue
+<img src="./color_imgs/CozyBlue.svg" alt="CozyBlue SVG" width="500">
+
+37. OrangeLatte
+<img src="./color_imgs/OrangeLatte.svg" alt="OrangeLatte SVG" width="500">
+
+38. WatermelonSoda
+<img src="./color_imgs/WatermelonSoda.svg" alt="WatermelonSoda SVG" width="500">
+
+39. SoftSerenity
+<img src="./color_imgs/SoftSerenity.svg" alt="SoftSerenity SVG" width="500">
+
+40. Westminster
+<img src="./color_imgs/Westminster.svg" alt="Westminster SVG" width="500">
+
+41. EarthyTones
+<img src="./color_imgs/EarthyTones.svg" alt="EarthyTones SVG" width="500">
+
+42. GracefulHues
+<img src="./color_imgs/GracefulHues.svg" alt="GracefulHues SVG" width="500">
+
+43. Pond
+<img src="./color_imgs/Pond.svg" alt="Pond SVG" width="500">
+
+44. MutedBlend
+<img src="./color_imgs/MutedBlend.svg" alt="MutedBlend SVG" width="500">
+
+45. FlowerBed
+<img src="./color_imgs/FlowerBed.svg" alt="FlowerBed SVG" width="500">
+
+46. Turner
+<img src="./color_imgs/Turner.svg" alt="Turner SVG" width="500">
+
+47. WarmHues
+<img src="./color_imgs/WarmHues.svg" alt="WarmHues SVG" width="500">
+
+48. ColorBlocking
+<img src="./color_imgs/ColorBlocking.svg" alt="ColorBlocking SVG" width="500">
+
+49. Porcelain
+<img src="./color_imgs/Porcelain.svg" alt="Porcelain SVG" width="500">
+
+50. RetroComfort
+<img src="./color_imgs/RetroComfort.svg" alt="RetroComfort SVG" width="500">
+
+
 
 ## Get Started
 To start using ChromaPalette, simply clone or download the repository from GitHub and import it into your favorite data visualization tool.
